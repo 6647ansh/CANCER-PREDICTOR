@@ -59,9 +59,4 @@ Breast cancer is one of the leading causes of death among women worldwide. Early
 
 ---
 
-## 🔧 How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/brahmibora/breast-cancer-prediction.git
-cd breast-cancer-prediction
